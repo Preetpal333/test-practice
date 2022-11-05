@@ -30,9 +30,3 @@ function Test() {
 }
 
 export default Test;
-
-/*
-1 system design course 
-2 dsa and system desgin crash course 
-3 mock interviews 
-*/
