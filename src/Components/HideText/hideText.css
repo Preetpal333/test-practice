@@ -1,0 +1,20 @@
+.main{
+    margin: 50px 300px ;
+    text-align: center;
+}
+
+.main .btn .btn-link{
+    border: 2px solid black;
+    padding: 7px;
+    border-radius: 10px;
+}
+.main .btn .btn-link:hover{
+    background-color: rgb(15, 145, 117);
+}
+
+.main .para{
+    margin-top:20px ;
+    padding: 10px;
+    border: 3px solid rgb(15, 145, 117);
+    border-radius: 7px;
+}
